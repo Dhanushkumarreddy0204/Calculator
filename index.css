@@ -20,3 +20,5 @@ body{
 .calculator{
     border: 1px solid #717377;
     padding: 20px;
+    border-radius: 16px;
+    background: transparent;
