@@ -42,3 +42,6 @@ input{
 input::placeholder{
     color: #ffffff;
 }
+button{
+    border: none;
+    width: 60px;
