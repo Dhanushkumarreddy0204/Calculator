@@ -39,3 +39,6 @@ input{
     cursor: pointer;
     color: #ffffff;
 }
+input::placeholder{
+    color: #ffffff;
+}
