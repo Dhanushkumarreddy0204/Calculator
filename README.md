@@ -14,3 +14,4 @@ A sleek and user-friendly calculator built using **HTML**, **CSS**, and **JavaSc
 ---
 
 ## 📸 Screenshots
+![Calculator UI - Dark Mode]()
